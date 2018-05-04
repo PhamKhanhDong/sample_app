@@ -4,4 +4,5 @@ class ApplicationController < ActionController::Base
 		render html: "Hello word"
 		
 	end
+	
 end
